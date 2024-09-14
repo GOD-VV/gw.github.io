@@ -1,2 +1,2 @@
 Hello! 
-[HomePages](https://github.com/GOD-VV/gw.github.io)
+[HomePages](https://god-vv.github.io/gw.github.io/)
